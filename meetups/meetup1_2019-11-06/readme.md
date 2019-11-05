@@ -1,6 +1,6 @@
 ## Ingestion of Streaming Sources into Snowflake using Snowpipe - Workshop Steps
 
-### Step 1 create a snowfleke account
+### Step 1 create a snowflake account
 - Create a free Snowflake account (you can get a Snowflake account with limited free credits for AWS, Azure) from below instructions
 
 - Please go ahead and create a free snowflake account if you do not have one at the link below. Laura R/Snowflake team has built a custom link for this event, [Meetup Snowflake Page](https://www.snowflake.com/event/snowflake-user-group-atlanta-11062019/)
@@ -10,13 +10,12 @@
 ### Step 2 Getting familiarized with Snowflake in 20 minutes
 - Once you are registered, go to this link, [Snowflake in 20 minutes](https://docs.snowflake.net/manuals/user-guide/getting-started-tutorial.html) to go over a tutorial for getting started with snowflake. 
 
-### Step 3 Downlaod the code to generate streaming events to write to cloud file storage (below code writes to AWS S3 bucket) 
+### Step 3 Download the code to generate streaming events to write to cloud file storage (below code writes to AWS S3 bucket) 
 - Download the Data Streaming Code from this [github repo](https://github.com/hashmapinc/socket_el). Once the code is working, you should be able to stream json files to the AWS repository
 
-- Setup intstuctions for connecting s3 file streaming event notifications to snowpipe
+### Step 4 Setup instructions for connecting s3 file streaming event notifications to snowpipe
 
-
-- Snowflake Snowpipe instructions for streaming the data into Snowflake from cloud (AWS in this case)
+### Step 4 Snowflake Snowpipe instructions for streaming the data into Snowflake from cloud (AWS in this case)
 
 > — Create a database, warehouse and a schema for this exercise;
 > CREATE OR REPLACE  WAREHOUSE SNFL_ATL_MEETUP_WH;
