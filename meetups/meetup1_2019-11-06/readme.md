@@ -13,9 +13,10 @@
 ### Step 3 Downlaod the code to generate streaming events to write to cloud file storage (below code writes to AWS S3 bucket) 
 - Download the Data Streaming Code from this [github repo](https://github.com/hashmapinc/socket_el). Once the code is working, you should be able to stream json files to the AWS repository
 
-- Setup intstuctions for connecting s3 file event notifications to snowpipe
+- Setup intstuctions for connecting s3 file streaming event notifications to snowpipe
 
-- Snowflake Snowpipe instructions for streaming the data into Snowflake from cloud storage
+
+- Snowflake Snowpipe instructions for streaming the data into Snowflake from cloud (AWS in this case)
 
 > — Create a database, warehouse and a schema for this exercise;
 > CREATE OR REPLACE  WAREHOUSE SNFL_ATL_MEETUP_WH;
