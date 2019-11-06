@@ -17,5 +17,5 @@
 - Download the [AWS/S3 and Snowflake integration](http://bit.ly/2PTzUQJ) steps
 
 ### Step 5 Snowflake Snowpipe instructions for streaming the data into Snowflake from cloud (AWS in this case)
-- Download [AWS/S3 and Snowflake Workshop](http://bit.ly/2WQLlu6) steps
+- Download [Snowpipe ingestion workshop instructions](http://bit.ly/2WQLlu6) steps
 
