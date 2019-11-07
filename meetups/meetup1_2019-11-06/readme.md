@@ -13,9 +13,16 @@
 ### Step 3 Download the code to generate streaming events to write to cloud file storage (below code writes to AWS S3 bucket) 
 - Download the Data Streaming Code from this [github repo](https://github.com/hashmapinc/socket_el). Once the code is working, you should be able to stream json files to the AWS repository
 
-### Step 4 Setup instructions for connecting s3 file streaming event notifications to snowpipe
+### Step 4a Setup instructions for connecting s3 file streaming event notifications to snowpipe
 - Download the [AWS/S3 and Snowflake integration](http://bit.ly/2PTzUQJ) steps
 
-### Step 5 Snowflake Snowpipe instructions for streaming the data into Snowflake from cloud (AWS in this case)
+### Step 4b Setup instructions for connecting Azure file streaming event notifications to snowpipe
+- Download the [Azure and Snowflake integration](http://bit.ly/32jQhZr) steps
+
+### Step 5a Snowflake Snowpipe instructions for streaming the data into Snowflake from **AWS** 
 - Download [Snowpipe ingestion workshop instructions](http://bit.ly/2WQLlu6) steps
 
+### Step 5b Snowflake Snowpipe instructions for streaming the data into Snowflake from **Azure**
+- Download [Snowpipe ingestion workshop instructions](http://bit.ly/2WR7VTe) steps
+
+Slide Deck of the meetup meeting.
