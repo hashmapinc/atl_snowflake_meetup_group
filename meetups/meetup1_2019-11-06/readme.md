@@ -20,9 +20,9 @@
 - Download the [Azure and Snowflake integration](http://bit.ly/32jQhZr) steps
 
 ### Step 5a Snowflake Snowpipe instructions for streaming the data into Snowflake from **AWS** 
-- Download [Snowpipe ingestion workshop instructions](http://bit.ly/2WQLlu6) steps
+- Download [AWS - Snowpipe ingestion workshop instructions](http://bit.ly/2WQLlu6) steps
 
 ### Step 5b Snowflake Snowpipe instructions for streaming the data into Snowflake from **Azure**
-- Download [Snowpipe ingestion workshop instructions](http://bit.ly/2WR7VTe) steps
+- Download [Azure - Snowpipe ingestion workshop instructions](http://bit.ly/2WR7VTe) steps
 
 Slide Deck of the meetup meeting.
