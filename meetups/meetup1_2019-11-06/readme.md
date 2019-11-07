@@ -1,4 +1,7 @@
-## Ingestion of Streaming Sources into Snowflake using Snowpipe - Workshop Steps
+## A. Check out the [Meetup Slide Deck](http://bit.ly/2NrRIAY).
+
+
+## B. Below are the Workshop Steps
 
 ### Step 1 create a snowflake account
 - Create a free Snowflake account (you can get a Snowflake account with limited free credits for AWS, Azure) from below instructions
@@ -25,5 +28,3 @@
 ### Step 5b Snowflake Snowpipe instructions for streaming the data into Snowflake from **Azure**
 - Download [Azure - Snowpipe ingestion workshop instructions](http://bit.ly/2WR7VTe) steps
 
-
-## Check out the [Meetup Slide Deck](http://bit.ly/2NrRIAY).
