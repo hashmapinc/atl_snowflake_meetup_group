@@ -25,4 +25,5 @@
 ### Step 5b Snowflake Snowpipe instructions for streaming the data into Snowflake from **Azure**
 - Download [Azure - Snowpipe ingestion workshop instructions](http://bit.ly/2WR7VTe) steps
 
-Slide Deck of the meetup meeting.
+
+## Check out the [Meetup Slide Deck](http://bit.ly/2NrRIAY).
